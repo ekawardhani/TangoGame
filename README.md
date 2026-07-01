@@ -1,6 +1,6 @@
-# Tango Challenge
+# Tango Card Game
 
-Tango Challenge is a Japanese vocabulary game controlled by stretching poses. The game uses Cloudflare Workers AI to generate vocabulary questions and answer choices:
+Tango Card Game is a Japanese vocabulary game controlled by stretching poses. The game uses Cloudflare Workers AI to generate vocabulary questions and answer choices:
 - Llama 3.3 70B Instruct for vocabulary questions and answer choices
 - FLUX.1 Schnell for card image generation
 
