@@ -1,5 +1,3 @@
-"""Small helper functions used by several modules."""
-
 import re
 from pathlib import Path
 from gameconfig import BASE_DIR
